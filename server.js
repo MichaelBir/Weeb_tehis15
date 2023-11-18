@@ -115,6 +115,6 @@ app.post('/getmovie', (req, res) => {
 	)
 });
 
-app.listen(process.env.PORT || 3003, () => {
+app.listen(process.env.PORT || 3000, () => {
     console.log('Server is listening port 3000')
 }); 
