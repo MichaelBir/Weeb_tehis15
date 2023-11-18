@@ -176,6 +176,12 @@ form {
     font-weight: 700;
 }
 
+.chat_conteiner{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 footer{
     margin-top: 2rem;
     text-align: center;
